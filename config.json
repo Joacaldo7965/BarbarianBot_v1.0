@@ -1,0 +1,151 @@
+{
+    "admin_users": [
+        "Knight7965xD#1117",
+        "PSCH#6507",
+        "Heything#6961",
+        "Puchiix#7284",
+        "hitsuia (BK)#5467"
+    ],
+    "channel": {
+        "debug": 699619039517081681,
+        "killbot": 672866775301488650,
+        "leaders": 688865319258816593,
+        "prices": 695314336071286894,
+        "welcome": 641385292560990218
+    },
+    "command_prefix": [
+        "BK ",
+        "Bk ",
+        "bk ",
+        "bK"
+    ],
+    "killbot": {
+        "guild": "Sancta Inquisitio",
+        "players": [
+            "Hitsuia",
+            "Zercin",
+            "rucrypto",
+            "LaExtrano",
+            "Puchiix",
+            "Heything",
+            "DoctorChango",
+            "YouDeleted",
+            "Syuteo",
+            "CarlosMamado"
+        ]
+    },
+    "killer_offsets": {
+        "Armor": [
+            367,
+            450
+        ],
+        "Bag": [
+            49,
+            192
+        ],
+        "Cape": [
+            682,
+            192
+        ],
+        "Food": [
+            49,
+            710
+        ],
+        "Head": [
+            367,
+            218
+        ],
+        "MainHand": [
+            108,
+            450
+        ],
+        "Mount": [
+            367,
+            903
+        ],
+        "OffHand": [
+            628,
+            450
+        ],
+        "Potion": [
+            682,
+            710
+        ],
+        "Shoes": [
+            367,
+            682
+        ]
+    },
+    "phrases": {
+        "farewell": [
+            "Pal lobby!",
+            "Creo que no le gusto. :/",
+            "Fue a buscar un lugar mejor...\nL\u00e1stima que no lo encontrar\u00e1",
+            "Nos vemos Crack!",
+            "Lo extra\u00f1aremos...    \no no?",
+            "Pa tu casa mastodonte!"
+        ],
+        "kill": [
+            "mat\u00f3 a",
+            "masacr\u00f3 a",
+            "le parti\u00f3 la cara a",
+            "mand\u00f3 a dormir a",
+            "le desinstal\u00f3 el juego a"
+        ],
+        "personal": {
+            "puchiix": [
+                "Buena esa eh, Crack!",
+                "Otra vez fue el lag?",
+                ":/ \u00bfFiora jal\u00f3 el cable?"
+            ]
+        }
+    },
+    "rules":[
+        "No hacerle caso a DoctorChango.",
+        "No seguir a Zercin en el camino.",
+        "Subirle el volumen a Puchiix."
+    ],
+    "token": "NjkyNzczNTE2MjU2NDc3MTk2.XozNbA.17hCAQUeHOozYqIWuLIjMWNjGCc",
+    "victim_offsets": {
+        "Armor": [
+            1840,
+            450
+        ],
+        "Bag": [
+            1522,
+            192
+        ],
+        "Cape": [
+            2155,
+            192
+        ],
+        "Food": [
+            1522,
+            710
+        ],
+        "Head": [
+            1840,
+            218
+        ],
+        "MainHand": [
+            1581,
+            450
+        ],
+        "Mount": [
+            1840,
+            903
+        ],
+        "OffHand": [
+            2101,
+            450
+        ],
+        "Potion": [
+            2155,
+            710
+        ],
+        "Shoes": [
+            1840,
+            682
+        ]
+    }
+}

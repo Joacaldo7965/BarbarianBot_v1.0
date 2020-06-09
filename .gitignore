@@ -1,3 +1,11 @@
+# Files Not Ready
+.vscode
+botADT.py
+botUtils.py
+config_Backup.json
+pruebas.py
+pruebas2.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
